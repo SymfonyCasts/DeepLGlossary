@@ -1,0 +1,5 @@
+entries:
+    endpoint: ruta
+    request: petición
+    Doctrine: Doctrine
+    Composer: Composer

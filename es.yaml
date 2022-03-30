@@ -3,3 +3,6 @@ entries:
     request: petición
     Doctrine: Doctrine
     Composer: Composer
+    'SOLID principles': principios SOLID
+    'open closed principle': principio de abierto-cerrado
+    'Bigfoot': Pie grande

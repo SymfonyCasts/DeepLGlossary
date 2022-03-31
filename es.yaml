@@ -3,8 +3,8 @@ entries:
     request: petición
     Doctrine: Doctrine
     Composer: Composer
+    Twig: Twig
     'SOLID principles': principios SOLID
     'open closed principle': principio de abierto-cerrado
     Bigfoot: Pie grande
     takeways: conclusiones
-    

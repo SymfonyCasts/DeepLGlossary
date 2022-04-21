@@ -4,8 +4,9 @@ entries:
     Doctrine: Doctrine
     Composer: Composer
     Twig: Twig
-    'SOLID principles': principios SOLID
-    'open closed principle': principio de abierto-cerrado
-    Bigfoot: Pie grande
+    'SOLID principles': 'principios SOLID'
+    'open closed principle': 'principio de abierto-cerrado'
+    Bigfoot: 'Pie grande'
     takeways: conclusiones
-    'Run:': Ejecuta:
+    'Run:': 'Ejecuta:'
+    Stimulus: Stimulus

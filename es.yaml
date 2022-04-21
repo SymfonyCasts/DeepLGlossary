@@ -12,3 +12,4 @@ entries:
     Stimulus: Stimulus
     "That's next": 'Eso a continuación'
     'bin/console': 'bin/console'
+    '{wildcards}': '{comodines}'

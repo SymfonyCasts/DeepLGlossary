@@ -14,3 +14,9 @@ entries:
     'bin/console': 'bin/console'
     '{wildcards}': '{comodines}'
     EasyAdmin: EasyAdmin
+    ApiResource: ApiResource
+    SerializedName: SerializedName
+    'make:user': 'make:user'
+    'make:entity': 'make:entity'
+    CheeseListing: CheeseListing
+    cheesesListings: cheesesListings

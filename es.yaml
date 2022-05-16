@@ -13,3 +13,4 @@ entries:
     "That's next": 'Eso a continuación'
     'bin/console': 'bin/console'
     '{wildcards}': '{comodines}'
+    EasyAdmin: EasyAdmin

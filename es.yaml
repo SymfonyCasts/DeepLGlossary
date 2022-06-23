@@ -7,7 +7,7 @@ entries:
     'SOLID principles': 'principios SOLID'
     'open closed principle': 'principio de abierto-cerrado'
     Bigfoot: 'Pie grande'
-    takeways: conclusiones
+    takeaways: conclusiones
     'Run:': 'Ejecuta:'
     Stimulus: Stimulus
     "That's next": 'Eso a continuación'
@@ -18,5 +18,9 @@ entries:
     SerializedName: SerializedName
     'make:user': 'make:user'
     'make:entity': 'make:entity'
+    'debug:autowiring': 'debug:autowiring'
     CheeseListing: CheeseListing
     cheesesListings: cheesesListings
+    bundle: bundle
+    KnpTimeBundle: KnpTimeBundle
+    FrameworkBundle: FrameworkBundle

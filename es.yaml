@@ -24,3 +24,6 @@ entries:
     bundle: bundle
     KnpTimeBundle: KnpTimeBundle
     FrameworkBundle: FrameworkBundle
+    env: entorno
+    var: variable
+    vars: variables

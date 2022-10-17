@@ -27,3 +27,4 @@ entries:
     env: entorno
     var: variable
     vars: variables
+    Messenger: Messenger

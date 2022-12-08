@@ -28,3 +28,4 @@ entries:
     var: variable
     vars: variables
     Messenger: Messenger
+    Mocking: Mocking

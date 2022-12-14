@@ -1,5 +1,5 @@
 entries:
-    endpoint: 'ruta'
+    endpoint: ruta
     request: petición
     Doctrine: Doctrine
     Composer: Composer

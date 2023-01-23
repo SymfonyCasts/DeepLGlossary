@@ -29,3 +29,4 @@ entries:
     vars: variables
     Messenger: Messenger
     Mocking: Mocking
+    'API Platform': API Platform

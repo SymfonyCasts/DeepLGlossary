@@ -30,3 +30,6 @@ entries:
     Messenger: Messenger
     Mocking: Mocking
     'API Platform': API Platform
+    'JSON-LD': JSON-LD
+    OpenAPI: OpenAPI
+

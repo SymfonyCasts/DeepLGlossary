@@ -32,4 +32,6 @@ entries:
     'API Platform': API Platform
     'JSON-LD': JSON-LD
     OpenAPI: OpenAPI
+    IRI: IRI
+
 

@@ -33,5 +33,7 @@ entries:
     'JSON-LD': JSON-LD
     OpenAPI: OpenAPI
     IRI: IRI
+    UUID: UUID
+
 
 

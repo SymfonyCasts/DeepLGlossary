@@ -36,6 +36,7 @@ entries:
     UUID: UUID
     'edge-case': caso extremo
     README: README
+    '.env': '.env'
 
 
 
